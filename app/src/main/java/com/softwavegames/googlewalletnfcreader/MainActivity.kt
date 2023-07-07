@@ -20,6 +20,7 @@ import java.util.Arrays
 
 class MainActivity : AppCompatActivity(), NfcAdapter.ReaderCallback {
 
+
     private lateinit var binding: ActivityMainBinding
     private var nfcAdapter: NfcAdapter? = null
     private var arrayAdapter: ArrayAdapter<*>? = null

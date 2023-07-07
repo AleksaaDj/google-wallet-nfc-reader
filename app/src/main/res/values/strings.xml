@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Google Wallet NFC Reader</string>
+    <string name="please_scan_the_pass">Please scan the pass</string>
 </resources>
